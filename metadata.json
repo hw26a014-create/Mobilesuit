@@ -1,0 +1,6 @@
+{
+  "name": "Robot Shooter",
+  "description": "An action-packed futuristic 2D mecha fighting arena shooting game where you control an upgradable robot battling rogue cyber-drones and giant bosses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
